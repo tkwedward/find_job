@@ -1,0 +1,94 @@
+body {
+  background: #fffbe8; }
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #fcd406;
+  font-size: 18px; }
+  .navbar a {
+    color: white;
+    margin-right: 30px; }
+
+.bg-1 {
+  background-color: #fcd406;
+  padding: 10px;
+  margin-top: 0px;
+  min-height: 400px; }
+  .bg-1 .title {
+    position: relative;
+    left: 100px;
+    top: 50px; }
+  .bg-1 img {
+    height: 250px;
+    width: auto; }
+
+.bg-2 {
+  font-size: 15px;
+  min-height: 500px;
+  background: white; }
+  .bg-2 .glyphicon-fire {
+    font-size: 60px;
+    color: red;
+    margin-top: 40px; }
+  .bg-2 .bg-2-content {
+    width: 70%;
+    display: block;
+    margin: 20px auto; }
+
+.bg-3 {
+  max-width: 500px; }
+  .bg-3 .bg-3-form {
+    margin-top: 40px; }
+
+.bg-4 {
+  background: #fcd406;
+  min-height: 320px; }
+  .bg-4 .icon {
+    height: 100px;
+    width: auto;
+    margin: 20px; }
+  .bg-4 .share {
+    margin-top: 35px; }
+    .bg-4 .share button {
+      margin-top: 50px;
+      margin-bottom: 30px; }
+  .bg-4 .contact {
+    margin-top: 35px; }
+
+.bg-5 {
+  min-height: 860px;
+  font-size: 18px;
+  width: 60%; }
+  .bg-5 .glyphicon {
+    margin-top: 30px;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: red; }
+  .bg-5 h1 {
+    margin-bottom: 50px; }
+  .bg-5 img {
+    position: relative;
+    left: 70%; }
+
+.bg-6 {
+  background: #fcd406;
+  height: 70px; }
+
+.latest-bg-1 {
+  background: white; }
+
+td {
+  width: 120px; }
+
+ul li {
+  list-style-type: none;
+  display: inline; }
+ul label input {
+  display: none; }
+ul label {
+  border: 1px solid green;
+  width: 23%;
+  height: 100px;
+  background-color: pink; }
+
+/*# sourceMappingURL=:job.css.map */
